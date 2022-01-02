@@ -4,7 +4,7 @@
 
 
 
-![1-1](image/1-1.png)
+<img src="image/1-1.png" alt="1-1" style="zoom: 25%;" />
 
 ## V3.0的重大突破
 
